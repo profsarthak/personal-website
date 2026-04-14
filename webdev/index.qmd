@@ -1,0 +1,14 @@
+---
+title: "Home"
+format: html
+---
+
+# Hi, I'm Sarthak
+
+I'm a quantitative product-focused data tools, write about design systems, and share work that blends analytics and storytelling.
+
+- Data science
+- Open source
+- Writing
+
+[See my work](projects.qmd){.btn}

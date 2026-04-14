@@ -1,0 +1,31 @@
+project:
+  type: website
+  title: "Sarthak Shares"
+  description: "A personal website built with Quarto"
+  author: "Sarthak Vedant Mohanty"
+website:
+  title: "Your Name"
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Blog
+        href: blog/index.qmd
+      - text: Contact
+        href: contact.qmd
+  output-dir: _site
+  favicon: icons/favicon.ico
+  social:
+    - icon: linkedin
+      href: https://linkedin.com/in/sarthakvm
+    - icon: substack
+      href: https://montysmusings.substack.com
+    - icon: github
+      href: https://github.com/profsarthak
+
+
+
