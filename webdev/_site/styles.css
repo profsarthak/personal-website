@@ -1,1 +1,10 @@
 /* css styles */
+body {
+  font-family: "Inter", sans-serif;
+  max-width: 800px;
+  margin: auto;
+}
+
+h1, h2 {
+  margin-top: 1.5em;
+}

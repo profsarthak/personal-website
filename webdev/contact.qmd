@@ -1,20 +1,12 @@
 ---
-title: Contact
-format: html
+title: "Contact"
 ---
 
-## Get in touch
+## Schedule a Call
 
-Email: [you@example.com](mailto:you@example.com)
-
-Or use a form service:
-
-<form action="https://formspree.io/f/XXXXX" method="POST">
-  <label>Name</label><br>
-  <input type="text" name="name"><br>
-  <label>Email</label><br>
-  <input type="email" name="email"><br>
-  <label>Message</label><br>
-  <textarea name="message"></textarea><br>
-  <button type="submit">Send</button>
-</form>
+<iframe 
+  src="https://calendly.com/sarthakvm/30-minutes" 
+  width="100%" 
+  height="600" 
+  frameborder="0">
+</iframe>

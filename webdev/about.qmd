@@ -1,5 +1,8 @@
 ---
-title: "About"
+title: "Hi, I'm Sarthak!"
 ---
+I'm a knowledge worker operating at the intersection of quantitative methods and behavioural science. My work involves applying this intersection towards better understanding and improving the lives of people in low- and middle-income countries.
 
-About this site
+As a researcher, I am interested in topics related to computational social science and data science, with a focus on uses in development economics and public policy. I am also interested in open source software and writing about my work and related topics (and non-related ones too).
+
+Beyond work, I enjoy learning new languages, playing video games, combat sports, and quizzing. I'm also a big fan of K-dramas, but my first love is Doctor Who. If you want to talk about mythology, sci-fi, or anything else, feel free to reach out! 

@@ -1,14 +1,21 @@
 ---
-title: "Home"
+title: "Welcome!"
 format: html
 ---
+This is my personal website, and my first attempt at website development. I built this using Quarto, which is a great tool for building websites and blogs using markdown. I'm still learning, so if you have any feedback or suggestions, please feel free to reach out!
 
-# Hi, I'm Sarthak
+---
 
-I'm a quantitative product-focused data tools, write about design systems, and share work that blends analytics and storytelling.
+## Explore
 
-- Data science
-- Open source
-- Writing
+- [About Me](about.qmd)
 
-[See my work](projects.qmd){.btn}
+- [Contact](contact.qmd)
+
+---
+
+## Writing & Presence
+
+- [Substack](https://montysmusings.substack.com)
+
+- [LinkedIn](https://linkedin.com/in/sarthakvm)
